@@ -7,5 +7,5 @@ function About() {
     );
   }
   
-  export default About; // 👈 ESTA LÍNEA ES NECESARIA
+  export default About;
   
